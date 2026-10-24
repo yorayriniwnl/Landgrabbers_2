@@ -12,6 +12,23 @@
 
 > **Repository status: empty at the time of this README's creation.** No source code, executable application, deployment, or test results are claimed here.
 
+<!-- YOR REDLINE / EXPERIENCE V2 -->
+
+<a id="system-map"></a>
+## System map
+
+<div align="center"><picture><source media="(max-width: 600px)" srcset="docs/yor-redline-system-mobile.svg"/><img src="docs/yor-redline-system.svg" width="100%" alt="Landgrabbers project space: Define project goal to Add actual source to Document setup to Verify behavior"/></picture></div>
+
+| Project signal | Documented scope |
+| :--- | :--- |
+| **Current maturity** | PLACEHOLDER / NO SOURCE |
+| **Technical focus** | A repository initialized with a README for future project documentation. |
+| **Evidence boundary** | No checked-in application, deployment, tests, or source features are asserted. |
+
+**Navigate:** [About](#about) · [Current evidence](#current-evidence)
+
+<!-- END YOR REDLINE / EXPERIENCE V2 -->
+
 ## About
 
 This is a placeholder for future project documentation. Add a sourced project summary, repository structure, verified setup steps, and current limitations when implementation begins.
